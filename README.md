@@ -1,7 +1,9 @@
-As a __Full Stack Software Engineer__, I specialize in developing and maintaining software solutions across multiple industries.
+<div align="center">
 
-Since February 2023, I’ve been self-employed under [Fidalgo IT Solutions](https://fidalgoitsolutions.com.br), managing the software for key clients like Prints Connection, The Lyfe Influence, and DKP IT (allocated at Itaúsa). 
+**I’m available for hire**—please connect with me on [LinkedIn](https://www.linkedin.com/in/matheusalvesbrx/).
 
 ***
 
-[ [Portfolio](https://#) | [CV](https://#) | [LinkedIn](https://www.linkedin.com/in/matheusalvesbrx/) | [Contact](mailto:theuves@gmail.com) ]
+[Request my services (English)](#) / [Solicite meus serviços (Português)](#)
+
+</div>
