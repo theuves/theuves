@@ -6,6 +6,6 @@
 
 ***
 
-*[Caso queira de uma consultoria particular (em português) entre em contato comigo aqui.](#)*
+[Caso queira de uma consultoria particular (em português) entre em contato comigo aqui.](#)
 
 </div>
